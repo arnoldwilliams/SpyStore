@@ -15,7 +15,9 @@ deploy:
   provider: releases
   user: arnoldwilliams
   password: ArnoldNed1
-  file: "FILE TO UPLOAD"
+  # file: "FILE TO UPLOAD"
+  file_glob: true
+  file: bin/*
   skip_cleanup: true
 on:
   tags: true
