@@ -190,7 +190,7 @@
         <Groups>
             <dx:NavBarGroup>
                 <Items>
-                    <dx:NavBarItem Text="All Issues" Selected="true" Name="All" />
+                    <dx:NavBarItem Text="All" Selected="true" Name="All" />
                     <dx:NavBarItem Text="Active issues" Name="Active" />
                     <dx:NavBarItem Text="Bugs" Name="Bugs" />
                     <dx:NavBarItem Text="Suggestions" Name="Suggestions" />
