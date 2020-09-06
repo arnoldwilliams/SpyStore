@@ -1,0 +1,14 @@
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Dal.deps.json
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Dal.runtimeconfig.json
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Dal.runtimeconfig.dev.json
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Dal.dll
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Dal.pdb
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Models.dll
+D:\SpyStore\SpyStore\SpyStore.Dal\bin\Debug\netcoreapp2.1\SpyStore.Models.pdb
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.csprojAssemblyReference.cache
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.csproj.CoreCompileInputs.cache
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.AssemblyInfoInputs.cache
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.AssemblyInfo.cs
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.csproj.CopyComplete
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.dll
+D:\SpyStore\SpyStore\SpyStore.Dal\obj\Debug\netcoreapp2.1\SpyStore.Dal.pdb
